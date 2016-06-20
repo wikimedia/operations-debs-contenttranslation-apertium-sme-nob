@@ -1,0 +1,1176 @@
+Revision: 61907
+AP_SRC1 Revision: 120824
+AP_SRC2 Revision: 61800
+Running Regression-tests with mode "sme-nob" with updated tests ...
+
+sme-nob	  biila.
+WORKS	  en bil.
+
+
+sme-nob	  biilla.
+WORKS	  en bil.
+
+
+sme-nob	  biillat.
+WORKS	  biler.
+
+
+sme-nob	  Oainnátgo máná?
+WORKS	  Ser du barnet?
+
+
+sme-nob	  Mii lea máná namma?
+WORKS	  Hva er barnets navn?
+
+
+sme-nob	  dán jagi válggas.
+WORKS	  på dette årets valg.
+
+
+sme-nob	  Máhtte máksá guokte ruvnnu.
+WORKS	  Máhtte betaler to kroner.
+
+
+sme-nob	  Girji máksá guokte ruvnnu.
+WORKS	  Boken koster to kroner.
+
+
+sme-nob	  Guokte ruvnnu lea boahtán.
+WORKS	  To kroner har kommet.
+
+
+sme-nob	  Dán lihtu ulbmil lea addit.
+WORKS	  Denne alliansens mål er å gi.
+
+
+sme-nob	  politiijastašuvdnii.
+WORKS	  til politistasjonen.
+
+
+sme-nob	  mielbargin.
+WORKS	  som medarbeider.
+
+
+sme-nob	  allaskuvla.
+WORKS	  en høyskole.
+
+
+sme-nob	  muohtasuddama.
+WORKS	  snøsmelting.
+
+
+sme-nob	  giellarevitaliseren.
+WORKS	  språkrevitalisering.
+
+
+sme-nob	  Gonagas Harald.
+WORKS	  Kong Harald.
+
+
+sme-nob	  friddja Norgii.
+WORKS	  til det frie Norge.
+
+
+sme-nob	  El.
+WORKS	  El.
+
+
+sme-nob	  Anne Tornensis Hætta.
+WORKS	  Anne Tornensis Hætta.
+
+
+sme-nob	  Son lea čeahpes bárdni.
+WORKS	  Han er en flink gutt.
+
+
+sme-nob	  buohtastahttit eará gielaiguin.
+WORKS	  sammenlign med de andre språkene.
+
+
+sme-nob	  Mannan vahku.
+WORKS	  Sist uke.
+
+
+sme-nob	  Vuosttas instruvssat.
+WORKS	  De første instruksene.
+
+
+sme-nob	  dan.
+WORKS	  det.
+
+
+sme-nob	  Dat lea.
+WORKS	  Det er.
+
+
+sme-nob	  goappat.
+WORKS	  hvert.
+
+
+sme-nob	  Jus in livčče mun ieš.
+	- Hvis jeg ikke kan være meg selv.
+	+ Hvis jeg ikke kan være jeg selv.
+
+
+sme-nob	  Máhttu lea ieš namma.
+	- Kunnskapen er selv et navn.
+	+ Kunnskapen er selv navnet.
+
+
+sme-nob	  Áhkku geahčai iežas speadjalis.
+WORKS	  Bestemor så seg selv i speilet.
+
+
+sme-nob	  Son lábmii iežas.
+WORKS	  Hun skadet seg selv.
+
+
+sme-nob	  Ale rábmo iežat.
+	- Ikke skryt av deg selv.
+	+ Ros ikke deg selv.
+
+
+sme-nob	  Elle muitalii iežas vuolgime.
+	- Elle fortalte at hun skal reise.
+	+ Elle fortalte at hun reiste.
+
+
+sme-nob	  Váldde biergasiid iežat fárrui.
+	- Ta tingene med deg.
+	+ Ta tingene med egen.
+
+
+sme-nob	  Mun ferten čorget iežan lanja.
+	- Jeg må rydde mitt eget rom.
+	+ Jeg må rydde eget rom.
+
+
+sme-nob	  mun ohppen čállit sámegiela, iežan eatnigiela.
+	- jeg lærte å skrive samisk, mitt eget morsmål.
+	+ jeg lærte å skrive samisk, eget morsmål.
+
+
+sme-nob	  Moai válde dušše iežame biergasiid mielde.
+	- Vi to tar bare våre egne ting med.
+	+ Vi to tar bare egne ting med.
+
+
+sme-nob	  Doai váldibeahtti dušše iežade biergasiid mielde.
+	- Dere to tar bare deres egne ting med.
+	+ Dere to tar bare egne ting med.
+
+
+sme-nob	  mu iežan girji.
+WORKS	  min egen bok.
+
+
+sme-nob	  Nieida duddjui alccesis ođđa gielkká.
+	- Jenta laget en ny kjelke til seg selv.
+	+ Jenta laget den nye kjelken til seg selv.
+
+
+sme-nob	  Mánát guvle alcceseaset speadjalis.
+WORKS	  Barnene kikte på seg selv i speilet.
+
+
+sme-nob	  Mis leat alddámet ain šibihat.
+	- Vi har selv enda husdyr.
+	+ Vi har på selv enda husdyrene.
+
+
+sme-nob	  Mun jurddašin iežainan.
+WORKS	  Jeg tenkte med meg selv.
+
+
+sme-nob	  iehčaneame.
+WORKS	  på egen hånd.
+
+
+sme-nob	  Mánát leat iehčanassii ruovttus.
+WORKS	  Barnene er alene hjemme.
+
+
+sme-nob	  ieža moai dáppe váccašetne.
+	- vi to spaserer her.
+	+ selv vi to spaserer her.
+
+
+sme-nob	  mihkkege almenneha birra.
+WORKS	  noe om allmenningen.
+
+
+sme-nob	  Gávdnetgo maidege?
+WORKS	  Finner de noe?
+
+
+sme-nob	  goabbáge.
+WORKS	  noe.
+
+
+sme-nob	  Lei nuorra nieida gii vujii biilla, ja son lea dál sáddejuvvon buohccevissui.
+WORKS	  Det var den unge jenta som kjørte bilen, og hun har nå blitt sendt til sykehuset.
+
+
+sme-nob	  deháleamos.
+WORKS	  viktigst.
+
+
+sme-nob	  dehálaš.
+WORKS	  viktig.
+
+
+sme-nob	  deháleabbo.
+WORKS	  viktigere.
+
+
+sme-nob	  almmolaš bálvalusaide.
+WORKS	  til de offentlige tjenestene.
+
+
+sme-nob	  min nuoramus olbmot.
+WORKS	  våre yngste folk.
+
+
+sme-nob	  min nuoramus bárdnái.
+WORKS	  til vår yngste gutt.
+
+
+sme-nob	  du deháleamos doaibma.
+WORKS	  din viktigste oppgave.
+
+
+sme-nob	  mu stuora váivái.
+WORKS	  til mitt store besvær.
+
+
+sme-nob	  Mii lea du bávččas mu stuora givssi ektui?
+	- Hva er din smerte mot min store plage?
+	+ Hva er di vonde for min store plage?
+
+
+sme-nob	  gáiddusoahpahussii.
+WORKS	  til fjernundervisning.
+
+
+sme-nob	  gáiddus.
+WORKS	  fjerntliggende.
+
+
+sme-nob	  sávrribut.
+WORKS	  mer utholdende.
+
+
+sme-nob	  iešguđet.
+	- forskjellige.
+	+ ulik.
+
+
+sme-nob	  iešguđetge.
+	- forskjellige.
+	+ hver.
+
+
+sme-nob	  leat eahpit.
+	- vi er tvilende.
+	+ vi er tvil.
+
+
+sme-nob	  Jáhkán ahte dát lea váikkuhan positiivvalaččat sin identitehtaovdáneapmái.
+WORKS	  Jeg tror at dette har påvirket mer positivt til deres identitetsutvikling.
+
+
+sme-nob	  goarun.
+WORKS	  jeg syr.
+
+
+sme-nob	  jeara.
+WORKS	  spør.
+
+
+sme-nob	  jearašin.
+	- jeg kunne spørre.
+	+ jeg kan spørre.
+
+
+sme-nob	  ii livčče čállán.
+	- hun ville ikke ha skrevet.
+	+ hun kan ikke ha skrevet.
+
+
+sme-nob	  jearažan.
+	- jeg spør da.
+	+ jeg spør.
+
+
+sme-nob	  Máhtte ii leačča čállán.
+	- Máhtte har da ikke skrevet.
+	+ Máhtte har ikke skrevet.
+
+
+sme-nob	  ii leačča čállán.
+	- han har da ikke skrevet.
+	+ han har ikke skrevet.
+
+
+sme-nob	  dihten.
+WORKS	  jeg visste.
+
+
+sme-nob	  diđiide.
+WORKS	  dere to visste.
+
+
+sme-nob	  diđiimet.
+WORKS	  vi visste.
+
+
+sme-nob	  Leago leamaš bátnevárka ráiggi geažil?
+	- Har det vært tannverk på grunn av hullet?
+	+ tannverk Har vært på grunn av hullet?
+
+
+sme-nob	  Das čujuhuvvo.
+WORKS	  Her vises det til.
+
+
+sme-nob	  báitá.
+WORKS	  det skinner.
+
+
+sme-nob	  arvá.
+WORKS	  det regner.
+
+
+sme-nob	  Ovddasvástádus lei biddjon girkui , ja lei báhppa gii dan čađahii.
+WORKS	  Ansvaret hadde blitt satt til kirken , og var presten som gjennomførte den.
+
+
+sme-nob	  Máhtte ii dáidde jienastit Bargiidbellodaga doppe.
+WORKS	  Máhtte stemmer nok ikke Arbeiderpartiet der borte.
+
+
+sme-nob	  ii leat čállán.
+WORKS	  han har ikke skrevet.
+
+
+sme-nob	  Máhtte lea boahtán.
+WORKS	  Máhtte har kommet.
+
+
+sme-nob	  ii leat boahtán.
+WORKS	  han har ikke kommet.
+
+
+sme-nob	  Ii leat čállán.
+WORKS	  Han har ikke skrevet.
+
+
+sme-nob	  Máhtte ii leat boahtán.
+WORKS	  Máhtte har ikke kommet.
+
+
+sme-nob	  itgo boađáše?
+WORKS	  kan du ikke komme?
+
+
+sme-nob	  it boađáše.
+WORKS	  du kan ikke komme.
+
+
+sme-nob	  Máhtte ii boađe.
+WORKS	  Máhtte kommer ikke.
+
+
+sme-nob	  go it boađáše.
+WORKS	  når du ikke kan komme.
+
+
+sme-nob	  itgo gáfe juga?
+WORKS	  drikker du ikke kaffe?
+
+
+sme-nob	  Mii maiddái ássat.
+WORKS	  Vi bor også.
+
+
+sme-nob	  Mu bealis dat dušše nannejuvvui.
+WORKS	  For meg ble den bare styrket.
+
+
+sme-nob	  Mun ferten viežžat čázi.
+WORKS	  Jeg må hente vann.
+
+
+sme-nob	  Mun lean heaitán borgguheames.
+WORKS	  Jeg har sluttet å røyke.
+
+
+sme-nob	  Mus lea biergu vuoššat.
+WORKS	  Jeg har kjøtt å koke.
+
+
+sme-nob	  Máhtte lea čállime.
+WORKS	  Máhtte er i ferd med å skrive.
+
+
+sme-nob	  ii leat čállimin.
+WORKS	  han er ikke i ferd med å skrive.
+
+
+sme-nob	  ii leat čállime.
+WORKS	  han er ikke i ferd med å skrive.
+
+
+sme-nob	  ii leačča čállimin.
+	- han er da ikke i ferd med å skrive.
+	+ han er ikke i ferd med å skrive.
+
+
+sme-nob	  ii leačča čállime.
+	- han er da ikke i ferd med å skrive.
+	+ han er ikke i ferd med å skrive.
+
+
+sme-nob	  Son lea taksivuoddjin Oslos.
+WORKS	  Han er drosjesjåfør i Oslo.
+
+
+sme-nob	  Mus lea Ánde mielbargin.
+WORKS	  Jeg har Ánde som medarbeider.
+
+
+sme-nob	  Sin bargun lei.
+WORKS	  Deres arbeid var det.
+
+
+sme-nob	  De son gullá beatnaga ciellame.
+	- Så hører han at hunden gjør.
+	+ Så hører han hunden gjør.
+
+
+sme-nob	  mun dieđán Máreha čállime dál.
+	- jeg vet at Máret skriver nå.
+	+ jeg vet Máret i ferd med å skrive nå.
+
+
+sme-nob	  Boahtágo áhčči ihttin?
+WORKS	  Kommer far i morgen?
+
+
+sme-nob	  Áhččigo boahtá ihttin?
+WORKS	  Er det far som kommer i morgen?
+
+
+sme-nob	  Go su áhčči jámii de gildui.
+WORKS	  Da hans far døde så ble det forbudt.
+
+
+sme-nob	  gildui.
+WORKS	  det ble forbudt.
+
+
+sme-nob	  gildui sámegiella.
+WORKS	  samisk ble forbudt.
+
+
+sme-nob	  Dađistaga gildui sámegiella.
+WORKS	  Etter hvert ble samisk forbudt.
+
+
+sme-nob	  dan maŋŋá gildui sámegiella.
+	- etter det ble samisk forbudt.
+	+ etter den ble samisk forbudt.
+
+
+sme-nob	  Dál dii fertebehtet geargat.
+WORKS	  Nå må dere bli ferdige.
+
+
+sme-nob	  Dát vártnuhis dilli vearránii sakka 1982:s.
+	- Dette håpløse forholdet ble mye verre i 1982.
+	+ Dette håpløse forholdet ble mye verre 1982.
+
+
+sme-nob	  Máhtte muitalii ádjá boahtit.
+WORKS	  Máhtte fortalte at bestefar skulle komme.
+
+
+sme-nob	  Máhtte logai sin vuolgit dál juo.
+WORKS	  Máhtte sa at de skulle reise nå allerede.
+
+
+sme-nob	  Mon gullen ahte áddjá ii dovdan dan lottáža.
+WORKS	  Jeg hørte at bestefar ikke kjente den fuglen.
+
+
+sme-nob	  vai flegmáhtalaš okkupašuvdnafápmu ii beassan sin váldit gitta.
+	- for at den flegmatiske okkupasjonsmakten ikke fikk ta dem fast.
+	+ for å den flegmatiske okkupasjonsmakten ikke fikk ta dem fast.
+
+
+sme-nob	  Harald vuortnui ahte ii áigon čuohppat vuovttaid.
+WORKS	  Harald sverget at han ikke skulle klippe hår.
+
+
+sme-nob	  ahte Norga ii sáhttán birget flegmáhtalaš soahtefámu vuostá.
+WORKS	  at Norge ikke kunne greie seg mot den flegmatiske krigsmakten.
+
+
+sme-nob	  vuovssihahtti.
+WORKS	  få spy.
+
+
+sme-nob	  boradišgohten.
+WORKS	  jeg begynte å spise.
+
+
+sme-nob	  lohkagohten.
+WORKS	  jeg begynte å lese.
+
+
+sme-nob	  ii lohkagoađe.
+WORKS	  han begynner ikke å lese.
+
+
+sme-nob	  don borrojuvvot.
+WORKS	  du spises.
+
+
+sme-nob	  go čukkodit.
+	- når de stikker seg.
+	+ når vi stikker oss.
+
+
+sme-nob	  Son basadii.
+WORKS	  Han vasket seg.
+
+
+sme-nob	  Son lábmii iežas.
+WORKS	  Han skadet seg selv.
+
+
+sme-nob	  go fanahallat.
+WORKS	  når vi tøyer oss.
+
+
+sme-nob	  don fertet vuos beatnaga čuogahit.
+	- du må først la hunden drikke.
+	+ du må først få hunden drikke.
+
+
+sme-nob	  goaruhit.
+	- de lar sy.
+	+ vi syr.
+
+
+sme-nob	  muitalahtten.
+	- jeg lot fortelle.
+	+ jeg fikk fortelle.
+
+
+sme-nob	  ráhkisvuohta ja geafivuohta ja coagisvuohta.
+WORKS	  kjærlighet og fattigdom og det grunne.
+
+
+sme-nob	  riikka nubbi davvisámegiel namma.
+WORKS	  rikets andre nordsamiske navn.
+
+
+sme-nob	  seammá sámiid.
+WORKS	  de samme samene.
+
+
+sme-nob	  olmmožin.
+	- som menneske.
+	+ som folk.
+
+
+sme-nob	  mánnán son orui Romssas.
+WORKS	  som barn bodde han i Tromsø.
+
+
+sme-nob	  nuorran son orui Romssas.
+WORKS	  som ungdom bodde han i Tromsø.
+
+
+sme-nob	  mánnán dihten.
+WORKS	  som barn visste jeg.
+
+
+sme-nob	  Dan gal dieđán váddása, ja.
+	- Det vet jeg vel er vanskelig, og.
+	+ Den vet vel vanskelig, og.
+
+
+sme-nob	  dákkár heahtegádjumiid.
+WORKS	  slikt nødverge.
+
+
+sme-nob	  Nu ahte seaŋggat ledje durdon guččain ja aktonas mánáid gatnjaliiguin.
+WORKS	  Slik at sengene hadde blitt tilsølt med urin og ensomme barns tårer.
+
+
+sme-nob	  Mii manahit máŋgga vejolaš sámegieloahpaheddjiid.
+WORKS	  Vi mister mange mulige samisklærere.
+
+
+sme-nob	  Mánná oađđá.
+WORKS	  Barnet sover.
+
+
+sme-nob	  skuvlii.
+	- til skolen.
+	+ han underviste.
+
+
+sme-nob	  NRK Radio oaivil.
+	- NRK Radios mening.
+	+ NRK-EN Radios mening.
+
+
+sme-nob	  Mannan dálvvi mátkkoštii joavku Kárášjohkii ja Guovdageidnui.
+WORKS	  Sist vinter reiste laget til Karasjok og Kautokeino.
+
+
+sme-nob	  Giella lei stuorámus váttisvuohta.
+WORKS	  Språket var det største problemet.
+
+
+sme-nob	  Mii leat dál gieldda stuorimus mánáidgárdi.
+WORKS	  Vi er nå kommunens største barnehage.
+
+
+sme-nob	  Máhtte ráhkada biepmu.
+WORKS	  Máhtte lager mat.
+
+
+sme-nob	  Oainnátgo máná?
+WORKS	  Ser du barnet?
+
+
+sme-nob	  Skuvla lea leamaš stuorimus oassi prošeavttas.
+WORKS	  Skolen har vært den største delen av prosjektet.
+
+
+sme-nob	  Mis lea cahkkehit dola.
+WORKS	  Vi må tenne bålet.
+
+
+sme-nob	  Ruoŧas ja Norggas.
+WORKS	  i Sverige og Norge.
+
+
+sme-nob	  son dahje sii.
+WORKS	  han eller de.
+
+
+sme-nob	  Harald liiko návddašit luonddu, dan dahká son go sihkkelastá.
+	- Harald liker å nyte naturen, det gjør han når han sykler.
+	+ Harald liker å nyte naturen, den gjør han når han sykler.
+
+
+sme-nob	  Son orui Romssas mánnán.
+WORKS	  Han bodde i Tromsø som barn.
+
+
+sme-nob	  Hearggit ruhttet dego livčče.
+	- Kjørereinene løper som de kan være.
+	+ Kjørereinene løper som det kan være.
+
+
+sme-nob	  Muhto mun orun Kárášjogas.
+WORKS	  Men jeg bor i Karasjok.
+
+
+sme-nob	  Mus lea oahpahus gaskkal guovtti ja njealji.
+WORKS	  Jeg har undervisning mellom to og fire.
+
+
+sme-nob	  dálkki geažil.
+WORKS	  på grunn av været.
+
+
+sme-nob	  dan geažil.
+	- på grunn av det.
+	+ på grunn av den.
+
+
+sme-nob	  dán geažil.
+WORKS	  på grunn av dette.
+
+
+sme-nob	  munno geažil.
+WORKS	  på grunn av oss to.
+
+
+sme-nob	  Juo cuoŋománu 10. beaivvi ija vuostá mátkkoštii Harald badjel ráji.
+WORKS	  Allerede 10. april mot natten reiste Harald over grensen.
+
+
+sme-nob	  nuorran son lea dan juo oahppan.
+	- som ungdom har han allerede lært det.
+	+ som ungdom har han allerede lært den.
+
+
+sme-nob	  nuorran son lea dan oahppan.
+	- som ungdom har han lært det.
+	+ som ungdom har han lært den.
+
+
+sme-nob	  Mun láven dávjá lávlut.
+WORKS	  Jeg pleier ofte synge.
+
+
+sme-nob	  Mun láven árrat lávlut.
+WORKS	  Jeg pleier synge tidlig.
+
+
+sme-nob	  Mun láven dávjá goallut.
+WORKS	  Jeg pleier ofte fryse.
+
+
+sme-nob	  Mun láven árrat goallut.
+WORKS	  Jeg pleier fryse tidlig.
+
+
+sme-nob	  Mun hálan dálkki birra.
+WORKS	  Jeg snakker om været.
+
+
+sme-nob	  Mun human fiskes biilla birra.
+WORKS	  Jeg snakker om den gule bilen.
+
+
+sme-nob	  Son lea Norggas.
+WORKS	  Han er i Norge.
+
+
+sme-nob	  Tine Chris Mathisen lea beassan leat mielde boazobargguin.
+WORKS	  Tine Chris Mathisen har fått være med på reindriftsarbeidene.
+
+
+sme-nob	  Go gullen sámegiela dien mátkkis.
+WORKS	  Da jeg hørte samisk på denne reisen.
+
+
+sme-nob	  Mun suhtan dutnje.
+WORKS	  Jeg blir sint på deg.
+
+
+sme-nob	  Mun liikon dutnje.
+WORKS	  Jeg liker deg.
+
+
+sme-nob	  Tine lea Norggas eret.
+WORKS	  Tine er fra Norge.
+
+
+sme-nob	  Son lea Norggas eret.
+WORKS	  Hun er fra Norge.
+
+
+sme-nob	  Son lea Islandas.
+WORKS	  Hun er på Island.
+
+
+sme-nob	  Son lea Islandas eret.
+WORKS	  Hun er fra Island.
+
+
+sme-nob	  du idjabeavdeskuffas?
+	- i din nattbordskuff?
+	+ deg *idjabeavdeskuffas?
+
+
+sme-nob	  Mánná gáskkáhalai beatnagii.
+WORKS	  Barnet ble bitt av hunden.
+
+
+sme-nob	  Mii fillehalaimet sidjiide.
+WORKS	  Vi ble narret av dem.
+
+
+sme-nob	  Manne don geahčat munnje?
+WORKS	  Hvorfor ser du på meg?
+
+
+sme-nob	  Fertebeahtti jáhkkigoahtit dakkár balddonasmuitalusaide.
+WORKS	  Dere to må begynne å tro på slike spøkelseshistorier.
+
+
+sme-nob	  Máhtte báhcá gáddái.
+WORKS	  Máhtte blir igjen på stranden.
+
+
+sme-nob	  Mun ohppen čállit dárogillii.
+WORKS	  Jeg lærte å skrive på norsk.
+
+
+sme-nob	  kánske mun galggan hállat dušše sámegillii.
+WORKS	  kanskje skal jeg snakke bare på samisk.
+
+
+sme-nob	  mun dadjen dan sámegillii.
+	- jeg sa det på samisk.
+	+ jeg sa den på samisk.
+
+
+sme-nob	  Mun suhtan dutnje.
+WORKS	  Jeg blir sint på deg.
+
+
+sme-nob	  Mun luohtán dutnje.
+WORKS	  Jeg stoler på deg.
+
+
+sme-nob	  dikki mielas livččii dehálaš oččodit olbmuide diđolašvuođa ja ipmárdusa ahte sin giella lea áitojuvvon.
+	- i rettens oppfatning kan det være viktig å prøve å gi folk bevisstheten og forståelsen at deres språk er truet.
+	+ i tingets oppfatning kan det være viktig å prøve å få folk bevisstheten og forståelsen at deres språk er blitt truet.
+
+
+sme-nob	  Go Tine Chris Mathisen bođii deike davás de lei son juo oahppan sámegiela.
+WORKS	  Da Tine Chris Mathisen kom hit nordover så hadde hun allerede lært samisk.
+
+
+sme-nob	  Go Per Mathisen bođii deike davás de lei son juo oahppan sámegiela.
+WORKS	  Da Per Mathisen kom hit nordover så hadde han allerede lært samisk.
+
+
+sme-nob	  Dat lea buot mii mus lea.
+	- Det er alt som jeg har.
+	+ Den er alt som jeg har.
+
+
+sme-nob	  guhkágo don ledjet doppe?
+WORKS	  hvor lenge var du der borte?
+
+
+sme-nob	  guhká go don ledjet doppe?
+WORKS	  hvor lenge var du der borte?
+
+
+sme-nob	  it go boađáše?
+WORKS	  kan du ikke komme?
+
+
+sme-nob	  Baldur go lea boahtán?
+WORKS	  er det Baldur som har kommet?
+
+
+sme-nob	  boađát go dál?
+WORKS	  kommer du nå?
+
+
+sme-nob	  Son lei dalle sullii 60-jahkásaš.
+	- Han var da omtrent 60 år gammel.
+	+ Han var da omtrent *60-jahkásaš.
+
+
+sme-nob	  1982:s 1982's 1982-s 1982%.
+WORKS	  1982 1982 1982 1982%.
+
+
+sme-nob	  1300-logu.
+WORKS	  1300-tallet.
+
+
+sme-nob	  1300-.
+WORKS	  1300-.
+
+
+sme-nob	  113-heahtenummáris.
+WORKS	  på 113-nødnummeret.
+
+
+sme-nob	  §§ 1-1984.
+WORKS	  §§ 1-1984.
+
+
+sme-nob	  –1.
+WORKS	  –1.
+
+
+sme-nob	  50%.
+WORKS	  50%.
+
+
+sme-nob	  50&#160;%.
+WORKS	  50&#160;%.
+
+
+sme-nob	  50.0&#160;%.
+WORKS	  50.0&#160;%.
+
+
+sme-nob	  1.1.
+WORKS	  1.1.
+
+
+sme-nob	  1,1 + 2.13 1,- 10.99.
+WORKS	  1,1 + 2.13 1,- 10.99.
+
+
+sme-nob	  110f f ja §110a.
+WORKS	  110f f og §110a.
+
+
+sme-nob	  okta 6 filmmas.
+WORKS	  en av 6 filmer.
+
+
+sme-nob	  gaskal diibmu 17.00 ja 21.00.
+WORKS	  mellom klokken 17.00 og 21.00.
+
+
+sme-nob	  19 Jovsset.
+WORKS	  19 Jovsset.
+
+
+sme-nob	  Golmma- njealje.
+	- Tre- fire.
+	+ Tre-fire.
+
+
+sme-nob	  Golmma-njealje.
+WORKS	  Tre-fire.
+
+
+sme-nob	  logi-jagáš.
+	- tiårig.
+	+ ti-årig.
+
+
+sme-nob	  logijagáš.
+	- tiårig.
+	+ et tiår.
+
+
+sme-nob	  De jearragohten manne, ja fuomašin ovtta vejolaš sivva dasa.
+	- Så begynte jeg å spørre hvorfor, og jeg oppdaget en mulig grunn til det.
+	+ Så begynte jeg å spørre hvorfor, og jeg oppdaget en den mulige grunnen til det.
+
+
+sme-nob	  Mun lean heaitán borgguheames.
+WORKS	  Jeg har sluttet å røyke.
+
+
+sme-nob	  Mus lea biergu vuoššat.
+WORKS	  Jeg har kjøtt å koke.
+
+
+sme-nob	  Geahččaledje jeđđet min.
+WORKS	  De prøvde å trøste oss.
+
+
+sme-nob	  ovddasvástideigga soai.
+WORKS	  hadde de to ansvar for.
+
+
+sme-nob	  Fuomášuhttit máná.
+WORKS	  Gjør barnet oppmerksom på.
+
+
+sme-nob	  du čállin reivve.
+	- brev som du har skrevet.
+	+ brev som du hadde skrevet.
+
+
+sme-nob	  gumppe čállin reivve.
+	- brev som ulven har skrevet.
+	+ brev som ulven hadde skrevet.
+
+
+sme-nob	  Buorre eahket.
+WORKS	  God kveld.
+
+
+sme-nob	  Buorre beaivi.
+WORKS	  God dag.
+
+
+sme-nob	  Bures boahtin.
+WORKS	  Velkommen.
+
+
+sme-nob	  Guldalat go don?
+WORKS	  Lytter du?
+
+
+sme-nob	  In guldal.
+WORKS	  Jeg lytter ikke.
+
+
+sme-nob	  Vare mun doppe dahje son dáppe.
+WORKS	  Gid jeg der borte eller han her.
+
+
+sme-nob	  Máhtte muitalii ahte áddjá boahtá.
+WORKS	  Máhtte fortalte at bestefar kommer.
+
+
+sme-nob	  Mánát leat boahtán skuvlii.
+WORKS	  Barnene har kommet til skolen.
+
+
+sme-nob	  Leimmet nu boaittobealde ahte eat dárbbašan evakueret 1944 čakčat ja oruimet doppe olles áiggi.
+WORKS	  Vi var så avsides at vi ikke behøvde å evakuere høsten 1944 og vi bodde der borte hele tiden.
+
+
+sme-nob	  Fuomášedje mii lea dáhpáhuvvamin.
+WORKS	  De oppdaget hva som er i ferd med å skje.
+
+
+sme-nob	  Eadni muitalii man dehálaš dat lei ahte.
+WORKS	  Mor fortalte hvor viktig den var at.
+
+
+sme-nob	  Maŋŋá go Máhttolokten doaibmagođii, de lea dát ruhtadoarjja jávkan.
+WORKS	  Etter at Kunnskapsløftet begynte å fungere, så har denne pengestønaden forsvunnet.
+
+
+sme-nob	  Gonagas Harald liiko návddašit luonddu, dan dahká son go bivdá.
+	- Kong Harald liker å nyte naturen, det gjør han når han jakter.
+	+ Kong Harald liker å nyte naturen, den gjør han når han jakter.
+
+
+sme-nob	  1 () 1998-99 Utjamningsmeldinga sátni.
+WORKS	  1 () 1998-99 Utjamningsmeldingas ord.
+
+
+sme-nob	  u-vearba Burton-upon-Trent.
+WORKS	  et u-verb Burton-upon-Trent.
+
+
+sme-nob	  su iežas.
+WORKS	  hans egen.
+
+
+sme-nob	  eanan-.
+WORKS	  jord-.
+
+
+sme-nob	  eanan- ja luonddudoahpagiid.
+	- jord- og naturbegrepene.
+	+ jord- og naturbegrep.
+
+
+sme-nob	  munno.
+WORKS	  oss to.
+
+
+sme-nob	  Ruvdnaprinseassa Märtha ja moai letne.
+	- Kronprinsesse Märtha og vi to er.
+	+ *Ruvdnaprinseassa Märtha og vi to er.
+
+
+sme-nob	  Prinseassa Märtha ja earát.
+	- Prinsesse Märtha og andre.
+	+ *Prinseassa Märtha og andre.
+
+
+sme-nob	  Märtha ja earát.
+WORKS	  Märtha og andre.
+
+
+sme-nob	  galbmit.
+WORKS	  fryse til.
+
+
+sme-nob	  sirdui.
+WORKS	  han ble flyttet.
+
+
+sme-nob	  lei okta dehálaš erohus.
+	- det var en viktig forskjell.
+	+ var en viktige forskjellen.
+
+
+sme-nob	  Anne ráhkada biepmu.
+WORKS	  Anne lager mat.
+
+
+sme-nob	  Dat lea sihke buorre ja heittot.
+	- Det er både bra og dårlig.
+	+ Den er både bra og dårlig.
+
+
+sme-nob	  22 jahkásaš Tine Chris Mathisen fárrii áibbas okto máddin Sápmái.
+WORKS	  22 år gamle Tine Chris Mathisen flyttet helt alene sørfra til Sameland.
+
+
+sme-nob	  vuolgit lea suohtas.
+WORKS	  å reise er morsomt.
+
+
+sme-nob	  Go Gonagas Olav buohccái 1990 giđa.
+WORKS	  Da Kong Olav ble syk våren 1990.
+
+
+sme-nob	  cuoŋománu 15. b. lea.
+WORKS	  15. april er det.
+
+
+sme-nob	  juohke lágán geđggiiguin.
+WORKS	  med alle slags steiner.
+
+
+sme-nob	  málet olbmuid earenoamáš dáhpáhusaid oktavuođas.
+	- male folk i forbindelse med de spesielle hendelsene.
+	+ vi maler folks spesielle hendelser i forbindelse.
+
+
+sme-nob	  Geassemánu 30. beaivvi 1944 nammadii Ráđđehus Londonis Ruvdnaprinssa Olav suodjalushoavdan.
+WORKS	  30. juni 1944 oppnevnte Regjeringen i London Kronprins Olav som forsvarssjef.
+
+
+sme-nob	  Lei unnán mii earuhii nuorra Prinssa skuvlavázzima eará skuvlamánáin.
+WORKS	  Det var lite som skilte den unge Prinsens skolegang fra de andre skolebarnene.
+
+
+sme-nob	  Sámi allaskuvla lea okta dain allaskuvllain.
+WORKS	  Samisk høgskole er en av de høyskolene.
+
+
+sme-nob	  Dat lei nuppiin sániin.
+	- Det var med det andre ordet.
+	+ Den var med annet med et ord.
+
+
+sme-nob	  (1998-99) Utjamningsmeldinga.
+WORKS	  (1998-99) Utjamningsmeldinga.
+
+
+sme-nob	  Mii vurddiimet dálkki buorránit.
+WORKS	  Vi ventet at været skulle bedres.
+
+
+sme-nob	  Suohkan lei positiiva juste nu guhkás go láhka geatnegahtii.
+	- Kommunen var positiv nettopp så langt som loven pliktet.
+	+ Kommunen var positiv nettopp så langt som en lov han pliktet.
+
+
+sme-nob	  Od.prp. nr. 41 1949 ja Od.prp. nr. 9 1951. Ja.
+WORKS	  Ot.prp. nr. 41 1949 og Ot.prp. nr. 9 1951. Og.
+
+
+sme-nob	  olbmot elle gávpeguolástemiin.
+WORKS	  folk levde på kommersielt fiske.
+
+
+sme-nob	  go dát ii leat suohkangeaidnu.
+WORKS	  når dette ikke er en kommunal vei.
+
+
+sme-nob	  Lea nu guhkkin ahte eai mánát šat olle bohcco rádjái.
+WORKS	  Det er så langt borte at barnene ikke lenger når frem til reinen.
+
+
+sme-nob	  Lea nu guhkkin ahte eai mánát olle bohcco rádjái.
+WORKS	  Det er så langt borte at barnene ikke når frem til reinen.
+
+
+sme-nob	  Lea nu guhkkin ahte eai mánát olle bohcco rádjái doppe.
+WORKS	  Det er så langt borte at barnene ikke når frem til reinen der borte.
+
+
+215 / 277, 77.62%
