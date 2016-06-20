@@ -1,0 +1,12 @@
+apertium-sme-nob (0.6.0~r61921-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 20 Jun 2016 11:25:33 +0530
+
+apertium-sme-nob (0.6.0~r61921-1) unstable; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release (Closes: #814402)
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 09 Jun 2016 21:57:45 +0530
