@@ -7,7 +7,7 @@ Uploaders: Tino Didriksen <tino@didriksen.cc>,
 Build-Depends: apertium-dev (>= 3.4),
                apertium-nob,
                autotools-dev,
-               cg3,
+               cg3 (>= 1.0.0~r12254),
                debhelper (>= 9),
                dh-autoreconf,
                gawk,
@@ -22,7 +22,11 @@ Vcs-Browser: https://anonscm.debian.org/cgit/debian-science/packages/apertium-sm
 
 Package: apertium-sme-nob
 Architecture: all
-Depends: apertium (>= 3.4), cg3, hfst, ${misc:Depends}, ${shlibs:Depends}
+Depends: apertium (>= 3.4),
+         cg3 (>= 1.0.0~r12254),
+         hfst,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Provides: apertium-nob-sme
 Conflicts: apertium-nob-sme
 Description: Apertium translation data for the Northern Sami-Norwegian Bokmål pair

@@ -1,3 +1,9 @@
+apertium-sme-nob (0.6.0~r61921-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Updated dependency on cg3.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 09 Jan 2018 17:14:24 +0530
+
 apertium-sme-nob (0.6.0~r61921-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
